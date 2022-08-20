@@ -18,6 +18,9 @@
 ## My Github Stats :
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=oladetohun1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=oladetohun1&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oladetohun1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## :trophy: GitHub Trophies :
 
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oladetohun1&theme=nord&no-frame=true&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=oladetohun1&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
