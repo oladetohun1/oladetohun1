@@ -8,11 +8,11 @@
 
 - :notebook: I am currently learning C
 
-- :pencil: I am a student at<a href="https://github.com/holbertonschool" target="blank">holberton</a> schools
+- :pencil: I am a student at <a href="https://github.com/holbertonschool" target="blank">holberton</a> schools
 
 - Connect with me on:
-	- <a href="<a href="https://twitter.com/Kodieene" target="blank">Twitter</a>
-	- <a href="<a href="https://www.linkedin.com/in/oluwakorede-emmanuel-oladetohun-1a89351a5/" target="blank">Linkedin</a>
+	- <a href="https://twitter.com/Kodieene" target="blank">Twitter</a>
+	- <a href="https://www.linkedin.com/in/oluwakorede-emmanuel-oladetohun-1a89351a5/" target="blank">Linkedin</a>
 	
 ---
 ## My Github Stats :
