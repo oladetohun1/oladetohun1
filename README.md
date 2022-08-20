@@ -18,3 +18,6 @@
 ## My Github Stats :
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=oladetohun1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+## :trophy: GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oladetohun1&theme=nord&no-frame=true&no-bg=true&margin-w=5)
