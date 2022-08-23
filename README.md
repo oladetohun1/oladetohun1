@@ -9,7 +9,7 @@
 
 - :notebook: I am currently learning C
 
-- :pencil: I am a student at <a href="https://github.com/holbertonschool" target="blank">holberton</a> schools
+- :pencil: I am a student of <a href="https://github.com/holbertonschool" target="blank">holberton</a> schools
 
 - Connect with me on:
 	- <a href="https://twitter.com/Kodieene" target="blank">Twitter</a>
