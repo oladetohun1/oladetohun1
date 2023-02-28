@@ -6,7 +6,7 @@
 
 ### ⚡️ A quick introduction
 
-- :pencil: I am a currently student of <a href="https://github.com/holbertonschool" target="blank">holberton</a> schools
+- :pencil: I am currently a student of <a href="https://github.com/holbertonschool" target="blank">holberton</a> schools
 
 - :speech_balloon: I am currently learning REACT.js
 
