@@ -50,6 +50,8 @@
 <img style="padding:5px;" align="center" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 </p>
 
+---
+
 ### :chart_with_upwards_trend: Github Stats :
 <a href="http://www.github.com/oladetohun1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=oladetohun1&bg_color=080a1f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=oladetohun1&count_private=true&show_icons=true&color=ffffff&bg_color=#080a1f&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
