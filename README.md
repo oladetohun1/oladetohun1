@@ -52,8 +52,8 @@ I'm oluwakorede. I have a zealous personality and a keen interest in technology.
 </p>
 
 ### :chart_with_upwards_trend: Github Stats :
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=oladetohun1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/oladetohun1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=oladetohun1&bg_color=080a1f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![My github stats](https://github-readme-stats.vercel.app/api?username=oladetohun1&count_private=true&show_icons=true&color=ffffff&bg_color=#080a1f&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oladetohun1&theme=react&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oladetohun1&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
