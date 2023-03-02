@@ -28,7 +28,7 @@
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=8iggjtpvqy6s5iue85zj040lm&cover_image=true&theme=default&show_offline=true&background_color=112b5a&interchange=false&bar_color_cover=false&bar_color=495648)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=8iggjtpvqy6s5iue85zj040lm&cover_image=true&theme=default&show_offline=false&background_color=112b5a&interchange=false&bar_color_cover=false&bar_color=495648)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
