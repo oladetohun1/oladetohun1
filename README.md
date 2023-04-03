@@ -12,7 +12,7 @@
 
 - :zap: I am open to collaboration on any frontend project that includes REACT
 
-- 🤟 I am an Engineering student.
+- 🤟 I Am A Computer Engineering Student.
 
 - 🔭 I am an aspiring Full stack developer
 
